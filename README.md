@@ -8,6 +8,7 @@ Participating in SATRIA DATA Competition (Statistics Ria and Data Science Festiv
 3. Random Forest (Scikit-learn)<br>
 4. Logistic Regression (Scikit-learn)<br>
 5. Ensemble SVM, Logistic Regression, Random Forest (Scikit-learn)<br>
+6. Using NLTK<br>
 
 ## Data Cleaning
 <br>
